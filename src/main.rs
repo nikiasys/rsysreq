@@ -23,13 +23,6 @@ fn main() {
                 break;
             }
         }
-        let output = Command::new("uname")
-        .arg("-r")
-        .output()
-        .expect("Failed to run command.");
-
-        let kernel_version = String::from_utf8_lossy(&output.stdout);
-        println!("Kernel Version: {}", kernel_version.trim());
         if let Some(name) = distro_name {
             println!("Linux Distribution: {}", name);
         }
