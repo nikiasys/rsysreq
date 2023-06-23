@@ -1,6 +1,6 @@
 # rsysreq
 Find out your own system requirements with a single command for Linux
-https://cdn.discordapp.com/attachments/1035930450851537008/1121591480625135636/image.png
+
 # New Update!
 Fixed GPU Driver and Total Disk Space --- Added Kernel Version, Disk Usage, Available Disk Space and Username
 # Installation
