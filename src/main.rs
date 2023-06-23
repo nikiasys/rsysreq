@@ -93,7 +93,7 @@ fn main() {
     if !stdout.is_empty() {
         let drivers: Vec<&str> = stdout.trim().split('\n').collect();
         let drivers_combined = drivers.join(", ");
-        println!("GPU Drivers: {}", drivers_combined);
+        println!("GPU Driver: {}", drivers_combined);
     } else {
         println!("GPU Driver: not found. {}", stderr);
     }
