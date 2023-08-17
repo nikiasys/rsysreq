@@ -2,8 +2,6 @@
 Find out your own system requirements with a single command for Linux
 #
 
-# New Update!
-Fixed GPU Driver and Total Disk Space --- Added Kernel Version, Disk Usage, Available Disk Space and Username
 # Installation
     git clone https://github.com/67x18/rsysreq.git
     cd rsysreq
