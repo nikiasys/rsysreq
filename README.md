@@ -11,3 +11,5 @@ Find out your own system requirements with a single command for Linux
     curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 # Usage
 Just type "rsysreq" in your console
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
